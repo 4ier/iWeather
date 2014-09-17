@@ -21,6 +21,25 @@
 		3B87E3E119C34FD600CED5A8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B87E3C319C34FD600CED5A8 /* UIKit.framework */; };
 		3B87E3E919C34FD600CED5A8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3B87E3E719C34FD600CED5A8 /* InfoPlist.strings */; };
 		3B87E3EB19C34FD600CED5A8 /* iWeatherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B87E3EA19C34FD600CED5A8 /* iWeatherTests.m */; };
+		3BB28E2619C880190061E423 /* 01d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E1D19C880190061E423 /* 01d.png */; };
+		3BB28E2719C880190061E423 /* 02d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E1E19C880190061E423 /* 02d.png */; };
+		3BB28E2819C880190061E423 /* 03d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E1F19C880190061E423 /* 03d.png */; };
+		3BB28E2919C880190061E423 /* 04d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2019C880190061E423 /* 04d.png */; };
+		3BB28E2A19C880190061E423 /* 09d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2119C880190061E423 /* 09d.png */; };
+		3BB28E2B19C880190061E423 /* 10d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2219C880190061E423 /* 10d.png */; };
+		3BB28E2C19C880190061E423 /* 11d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2319C880190061E423 /* 11d.png */; };
+		3BB28E2D19C880190061E423 /* 13d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2419C880190061E423 /* 13d.png */; };
+		3BB28E2E19C880190061E423 /* 50d.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2519C880190061E423 /* 50d.png */; };
+		3BB28E3819C892CB0061E423 /* 01n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E2F19C892CB0061E423 /* 01n.png */; };
+		3BB28E3919C892CB0061E423 /* 02n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3019C892CB0061E423 /* 02n.png */; };
+		3BB28E3A19C892CB0061E423 /* 03n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3119C892CB0061E423 /* 03n.png */; };
+		3BB28E3B19C892CB0061E423 /* 04n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3219C892CB0061E423 /* 04n.png */; };
+		3BB28E3C19C892CB0061E423 /* 09n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3319C892CB0061E423 /* 09n.png */; };
+		3BB28E3D19C892CB0061E423 /* 10n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3419C892CB0061E423 /* 10n.png */; };
+		3BB28E3E19C892CB0061E423 /* 11n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3519C892CB0061E423 /* 11n.png */; };
+		3BB28E3F19C892CB0061E423 /* 13n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3619C892CB0061E423 /* 13n.png */; };
+		3BB28E4019C892CB0061E423 /* 50n.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BB28E3719C892CB0061E423 /* 50n.png */; };
+		41234EF3944848EBB0C9BB3A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9BFA5A3FB7DD4654A581D46F /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +72,26 @@
 		3B87E3E619C34FD600CED5A8 /* iWeatherTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iWeatherTests-Info.plist"; sourceTree = "<group>"; };
 		3B87E3E819C34FD600CED5A8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3B87E3EA19C34FD600CED5A8 /* iWeatherTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iWeatherTests.m; sourceTree = "<group>"; };
+		3BB28E1D19C880190061E423 /* 01d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01d.png; sourceTree = "<group>"; };
+		3BB28E1E19C880190061E423 /* 02d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02d.png; sourceTree = "<group>"; };
+		3BB28E1F19C880190061E423 /* 03d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03d.png; sourceTree = "<group>"; };
+		3BB28E2019C880190061E423 /* 04d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 04d.png; sourceTree = "<group>"; };
+		3BB28E2119C880190061E423 /* 09d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 09d.png; sourceTree = "<group>"; };
+		3BB28E2219C880190061E423 /* 10d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10d.png; sourceTree = "<group>"; };
+		3BB28E2319C880190061E423 /* 11d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11d.png; sourceTree = "<group>"; };
+		3BB28E2419C880190061E423 /* 13d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13d.png; sourceTree = "<group>"; };
+		3BB28E2519C880190061E423 /* 50d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50d.png; sourceTree = "<group>"; };
+		3BB28E2F19C892CB0061E423 /* 01n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01n.png; sourceTree = "<group>"; };
+		3BB28E3019C892CB0061E423 /* 02n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 02n.png; sourceTree = "<group>"; };
+		3BB28E3119C892CB0061E423 /* 03n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 03n.png; sourceTree = "<group>"; };
+		3BB28E3219C892CB0061E423 /* 04n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 04n.png; sourceTree = "<group>"; };
+		3BB28E3319C892CB0061E423 /* 09n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 09n.png; sourceTree = "<group>"; };
+		3BB28E3419C892CB0061E423 /* 10n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10n.png; sourceTree = "<group>"; };
+		3BB28E3519C892CB0061E423 /* 11n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11n.png; sourceTree = "<group>"; };
+		3BB28E3619C892CB0061E423 /* 13n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13n.png; sourceTree = "<group>"; };
+		3BB28E3719C892CB0061E423 /* 50n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50n.png; sourceTree = "<group>"; };
+		9BFA5A3FB7DD4654A581D46F /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		B15D33E2C8124655862B5EB9 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +102,7 @@
 				3B87E3C219C34FD600CED5A8 /* CoreGraphics.framework in Frameworks */,
 				3B87E3C419C34FD600CED5A8 /* UIKit.framework in Frameworks */,
 				3B87E3C019C34FD600CED5A8 /* Foundation.framework in Frameworks */,
+				41234EF3944848EBB0C9BB3A /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,10 +122,12 @@
 		3B87E3B319C34FD600CED5A8 = {
 			isa = PBXGroup;
 			children = (
+				3BB28E1C19C880190061E423 /* icons */,
 				3B87E3C519C34FD600CED5A8 /* iWeather */,
 				3B87E3E419C34FD600CED5A8 /* iWeatherTests */,
 				3B87E3BE19C34FD600CED5A8 /* Frameworks */,
 				3B87E3BD19C34FD600CED5A8 /* Products */,
+				B15D33E2C8124655862B5EB9 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +147,7 @@
 				3B87E3C119C34FD600CED5A8 /* CoreGraphics.framework */,
 				3B87E3C319C34FD600CED5A8 /* UIKit.framework */,
 				3B87E3DE19C34FD600CED5A8 /* XCTest.framework */,
+				9BFA5A3FB7DD4654A581D46F /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -152,6 +195,31 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		3BB28E1C19C880190061E423 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				3BB28E2F19C892CB0061E423 /* 01n.png */,
+				3BB28E3019C892CB0061E423 /* 02n.png */,
+				3BB28E3119C892CB0061E423 /* 03n.png */,
+				3BB28E3219C892CB0061E423 /* 04n.png */,
+				3BB28E3319C892CB0061E423 /* 09n.png */,
+				3BB28E3419C892CB0061E423 /* 10n.png */,
+				3BB28E3519C892CB0061E423 /* 11n.png */,
+				3BB28E3619C892CB0061E423 /* 13n.png */,
+				3BB28E3719C892CB0061E423 /* 50n.png */,
+				3BB28E1D19C880190061E423 /* 01d.png */,
+				3BB28E1E19C880190061E423 /* 02d.png */,
+				3BB28E1F19C880190061E423 /* 03d.png */,
+				3BB28E2019C880190061E423 /* 04d.png */,
+				3BB28E2119C880190061E423 /* 09d.png */,
+				3BB28E2219C880190061E423 /* 10d.png */,
+				3BB28E2319C880190061E423 /* 11d.png */,
+				3BB28E2419C880190061E423 /* 13d.png */,
+				3BB28E2519C880190061E423 /* 50d.png */,
+			);
+			path = icons;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -159,9 +227,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3B87E3EE19C34FD600CED5A8 /* Build configuration list for PBXNativeTarget "iWeather" */;
 			buildPhases = (
+				25EDA6C12B3B4CEB80661354 /* Check Pods Manifest.lock */,
 				3B87E3B819C34FD600CED5A8 /* Sources */,
 				3B87E3B919C34FD600CED5A8 /* Frameworks */,
 				3B87E3BA19C34FD600CED5A8 /* Resources */,
+				C565087F4FD247E4ACA5F86C /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -230,8 +300,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B87E3D819C34FD600CED5A8 /* Images.xcassets in Resources */,
+				3BB28E3819C892CB0061E423 /* 01n.png in Resources */,
+				3BB28E3919C892CB0061E423 /* 02n.png in Resources */,
 				3B87E3CA19C34FD600CED5A8 /* InfoPlist.strings in Resources */,
+				3BB28E2C19C880190061E423 /* 11d.png in Resources */,
+				3BB28E3E19C892CB0061E423 /* 11n.png in Resources */,
+				3BB28E4019C892CB0061E423 /* 50n.png in Resources */,
+				3BB28E2E19C880190061E423 /* 50d.png in Resources */,
+				3BB28E2D19C880190061E423 /* 13d.png in Resources */,
+				3BB28E3F19C892CB0061E423 /* 13n.png in Resources */,
+				3BB28E3C19C892CB0061E423 /* 09n.png in Resources */,
+				3BB28E2919C880190061E423 /* 04d.png in Resources */,
+				3BB28E2B19C880190061E423 /* 10d.png in Resources */,
 				3B87E3D319C34FD600CED5A8 /* Main.storyboard in Resources */,
+				3BB28E2819C880190061E423 /* 03d.png in Resources */,
+				3BB28E2619C880190061E423 /* 01d.png in Resources */,
+				3BB28E3B19C892CB0061E423 /* 04n.png in Resources */,
+				3BB28E3A19C892CB0061E423 /* 03n.png in Resources */,
+				3BB28E3D19C892CB0061E423 /* 10n.png in Resources */,
+				3BB28E2719C880190061E423 /* 02d.png in Resources */,
+				3BB28E2A19C880190061E423 /* 09d.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +332,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		25EDA6C12B3B4CEB80661354 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C565087F4FD247E4ACA5F86C /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3B87E3B819C34FD600CED5A8 /* Sources */ = {
@@ -374,6 +495,7 @@
 		};
 		3B87E3EF19C34FD600CED5A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B15D33E2C8124655862B5EB9 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -387,6 +509,7 @@
 		};
 		3B87E3F019C34FD600CED5A8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B15D33E2C8124655862B5EB9 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -457,6 +580,7 @@
 				3B87E3F019C34FD600CED5A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B87E3F119C34FD600CED5A8 /* Build configuration list for PBXNativeTarget "iWeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +589,7 @@
 				3B87E3F319C34FD600CED5A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
