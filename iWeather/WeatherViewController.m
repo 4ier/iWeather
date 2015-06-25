@@ -1,6 +1,6 @@
 //
 //  WeatherViewController.m
-//  iWeather
+//  iWeather/Users/fuyang/Documents/iWeather/iWeather/WeatherAppDelegate.h
 //
 //  Created by 傅洋 on 14-9-12.
 //  Copyright (c) 2014年 4ier.in. All rights reserved.
